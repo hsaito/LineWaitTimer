@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LineWaitTimer</string>
+    <string name="front_people">Number of People Front of You</string>
+    <string name="after_people">People Behind You Arrived Within 60 Seconds</string>
+    <string name="timer60sec_begin">Start 60 Seconds Timer</string>
+    <string name="add_person">Add Person</string>
+
+</resources>
